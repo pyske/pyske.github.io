@@ -1,8 +1,3 @@
----
-title: PySke - The Python Skeleton Library
-author: Frederic Loulergue
----
-
 # What is PySke?
 
 Algorithmic skeletons are patterns of parallel computations. Skeletal
