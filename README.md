@@ -1,5 +1,5 @@
 ---
-title: The Python Skeleton Library
+title: "The Python Skeleton Library"
 ---
 
 # What is PySke?
