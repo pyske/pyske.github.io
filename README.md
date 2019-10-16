@@ -1,6 +1,6 @@
 ---
 title: PySke - The Python Skeleton Library
-author: Frédéric Loulergue
+author: Frederic Loulergue
 ---
 
 # What is PySke?
