@@ -1,4 +1,7 @@
-# PySke - The Python Skeleton Library
+---
+title: PySke - The Python Skeleton Library
+author: Frédéric Loulergue
+---
 
 # What is PySke?
 
