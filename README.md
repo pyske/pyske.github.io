@@ -38,3 +38,7 @@ distributed memory parallel architectures in a simple way.
 ## Poster Presentation with Proceedings
 
 1. Jolan Philippe and Frédéric Loulergue. Towards automatically optimizing PySke programs (poster). In International Conference on High Performance Computing and Simulation (HPCS). IEEE, 2019
+
+# Talks
+
+1. Jolan Philippe. [PySke: Algorithmic Skeletons for Python](files/2019_lamha_philippe.pdf), Journée LaMHA + LTP, Créteil, France, October 18, 2019
