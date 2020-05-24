@@ -19,9 +19,6 @@ distributed memory parallel architectures in a simple way.
 
 - Frédéric Loulergue (Northern Arizona University, Flagstaff, USA)
 - Jolan Philippe (IMT Atlantique, Nantes, France)
-- Maria Granroth (Northern Arizona University, Flagstaff, USA)
-- Philippe-Henry Fruhauf (Université d'Orléans, Orléans, France)
-- Alexandre Montcuit (Université d'Orléans, Orléans, France)
 
 # Publications
 
