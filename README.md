@@ -17,7 +17,7 @@ distributed memory parallel architectures in a simple way.
    
 # Current Team
 
-- Frédéric Loulergue (Northern Arizona University, Flagstaff, USA)
+- Frédéric Loulergue (Université d'Orléans, Orléans, France)
 - Jolan Philippe (IMT Atlantique, Nantes, France)
 
 # Publications
